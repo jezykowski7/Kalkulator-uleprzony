@@ -12,29 +12,6 @@ Projekt korzysta z **JavaScript**, **CSS**, **HTML** oraz biblioteki **math.js**
 
 ---
 
-## Struktura plików
-
-/Kalkulator-aplikacja/
-        |
-        ├─index.html
-        ├─style.css --> style wspólne dla index.html i reszty podstron
-        ├─kalkulator/
-        |     ├─kalkulator.css
-        |     └─kalkulator.js
-        ├─systemyLiczbowe/
-        |        ├─systemyLiczbowe.css  
-        |        ├─systemyLiczbowe.html  
-        |        └─systemyLiczbowe.js  
-        ├─wiecej/
-        |   ├─wiecej.css  
-        |   ├─wiecej.html  
-        |   └─wiecej.js
-        |
-        ├─fontello-20b0d37c/ --> (pobrane z fontello.com)
-        └─README.md <-- tu jesteś :)
-
----
-
 ## Możliwe błędy
 - **Strona powinna być rozpakowana w przeciwnym razie mogą wystąpić błędy z załadowaniem stylów oraz skryptów JS**
 
